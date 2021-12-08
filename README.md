@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Saqib Hayat from Pakistan specialized in HTML, CSS, JavaScript, BootStrap, PHP, MySql
+- 👋 Hi, I’m Saqib Hayat from Pakistan specialized in HTML, CSS, JavaScript, BootStrap, PHP, MySql, WordPress
 - 👀 I’m interested in web development and programming.
 - 🌱 I’m currently learning and grooming my skills
 - 💞️ I’m looking to collaborate on web development projects
