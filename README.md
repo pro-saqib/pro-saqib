@@ -1,8 +1,7 @@
 # Hi there! 👋 I'm Saqib Hayat
 
-🌍 **Location:** Pakistan  
 👨‍💻 **Profession:** Full Stack Developer  
-🎂 **Age:** 25  
+🌍 **Location:** Lahore, Pakistan  
 
 ## About Me
 I'm passionate about crafting seamless and engaging web experiences. As a 25-year-old web developer based in Pakistan, I delve into the world of full-stack web development, striving to create innovative and user-friendly solutions.
