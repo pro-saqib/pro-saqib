@@ -21,4 +21,4 @@ I'm currently honing my skills in full-stack development, with a focus on buildi
 ## Let's Connect!
 📫 Feel free to reach out for collaborations, discussions, or just to say hi! I'm always open to connecting with fellow developers and enthusiasts.
 
-[![Linkedin]([https://img.shields.io/badge/LinkedIn-saqibhayat-blue)](https://www.linkedin.com/in/saqibhayat/](https://www.linkedin.com/in/pro-saqib/))
+[![Linkedin]([https://img.shields.io/badge/LinkedIn-saqibhayat-blue)](https://www.linkedin.com/in/pro-saqib/)])
