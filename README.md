@@ -4,7 +4,7 @@
 🌍 **Location:** Lahore, Pakistan  
 
 ## About Me
-I'm passionate about crafting seamless and engaging web experiences. As a 25-year-old web developer based in Pakistan, I delve into the world of full-stack web development, striving to create innovative and user-friendly solutions.
+I'm passionate about crafting seamless and engaging web experiences. I delve into the world of full-stack web development, striving to create innovative and user-friendly solutions.
 
 ## Skills
 - **Frontend:** HTML, CSS, BootStrap, Tailwind CSS, Sass, JavaScript, React
