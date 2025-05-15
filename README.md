@@ -10,6 +10,7 @@ I'm passionate about crafting seamless and engaging web experiences. I delve int
 - **Frontend:** HTML, CSS, BootStrap, Tailwind CSS, Sass, JavaScript, React
 - **Backend:** Node.js, Express, PHP
 - **Database:** MongoDB, MySQL
+- **Mobile Development:** ReactNative, NativeWind, Ngrock, Expo
 - **CMS:** WordPress, Shopify
 - **Tools:** Git, VS Code
 - **Other:** Responsive Design, RESTful APIs
