@@ -6,7 +6,7 @@
 - 🔧 I’m currently working on full-stack applications with **React.js**, **Node.js**, and **TailwindCSS**
 - 🌱 Exploring cloud-based app deployment and scalable architectures
 - 💬 Ask me about **frontend**, **backend**, **SEO**, or **growth marketing**
-- 📫 Reach me at: **prosaqib.dev@gmail.com**
+- 📫 Reach me at: **saqib.logic@gmail.com**
 - ⚡ Fun fact: Mixing code with campaigns — that’s my thing 💻📈
 
 ---
