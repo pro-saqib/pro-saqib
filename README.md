@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Saqib+Hayat;Software+Engineer+%7C+Digital+Marketing+Specialist;Building+Web+Apps+with+React+%26+TailwindCSS;Driving+Traffic+via+SEO+%26+Performance+Marketing;Code.+Market.+Scale." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=9255CE&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Saqib+Hayat;Software+Engineer+%7C+Digital+Marketing+Specialist;Building+Web+Apps+with+React+%26+TailwindCSS;Driving+Traffic+via+SEO+%26+Performance+Marketing;Code.+Market.+Scale." alt="Typing SVG" />
 </h1>
 
 ### 🚀 About Me
